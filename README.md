@@ -62,3 +62,6 @@ Please feel free to modify the script according to your specific requirements.
 - Ensure that your PostgreSQL server is running and accessible.
 - Handle sensitive information (like passwords) securely, especially in production environments.
 - Customize the script as needed for your specific database schema and requirements.
+
+## Video Demonstration
+- https://youtu.be/AbGRSIqbV_w
